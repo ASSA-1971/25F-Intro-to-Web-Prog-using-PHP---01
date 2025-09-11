@@ -1,0 +1,61 @@
+body {
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    background: linear-gradient(135deg, #1f1f1f, #3a3a3a);
+    color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background: #2196f3;
+    padding: 25px;
+    border-bottom: 5px solid #1769aa;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+main {
+    padding: 40px 20px;
+}
+
+.dog-box {
+    margin: 20px auto;
+    max-width: 500px;
+    background: #2a2a2a;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.5);
+}
+
+.dog-img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 12px 25px;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+    background-color: #2196f3;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #1769aa;
+}
+
+footer {
+    background: #111;
+    padding: 15px;
+    margin-top: 40px;
+    color: #aaa;
+    font-size: 14px;
+}
