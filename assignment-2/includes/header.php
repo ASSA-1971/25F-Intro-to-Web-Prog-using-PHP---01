@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This is my first pizza order-form">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Aarif Pizza-Palace</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+        <header>
+            <h1>Aarif Pizza-Palace</h1>
+        </header>
+        <main>
+
+
+
+
+ 
